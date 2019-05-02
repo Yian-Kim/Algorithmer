@@ -14,7 +14,7 @@ public class ex_2292 {
 				count++;
 				sum += 6*count;
 			}
-			
+			asdf
 			System.out.println(count);
 		} catch (Exception e) {
 			System.out.println(e.toString());
