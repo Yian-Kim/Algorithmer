@@ -1,8 +1,12 @@
 # SWTest_WCC
 
+<!-- URL 넣는 방법 : [내용](URL) -->
+[[한국어]](https://github.com/Chanmi-Kim/SWTest_WCC/blob/master/README.ko.md)
+[[ENGLISH]](https://github.com/Chanmi-Kim/SWTest_WCC/blob/master/README.md)
+
 ## Introduce
 
-The Repositorie was created for code sharing in a SW TEST Study.<br>
+The Repository was created for code sharing in a SW TEST Study.<br>
 
 ## Participant
 - [KCM](https://github.com/Chanmi-Kim) <br>
