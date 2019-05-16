@@ -19,12 +19,7 @@ public class ex_2455 {
 		// 사분할 하는 행위: n회 시행
 		for (int i=0; i<n; i++) {
 			
-			System.out.println("i : " + i);
-			System.out.println("r : " + r);
-			System.out.println("c : " + c);
-			System.out.println("m : " + median);
-			System.out.println("result: " + result);
-			
+		
 			if (r >= median && c >= median) {
 				
 				// 4사분면
@@ -34,13 +29,7 @@ public class ex_2455 {
 				r -= median;
 				c -= median;
 				median = median/2;
-				
-				System.out.println("4사분면");
-				System.out.println("r : " + r);
-				System.out.println("c : " + c);
-				System.out.println("m : " + median);
-				System.out.println("result: " + result);
-				
+								
 			} else if (r >= median && c < median) {
 				// 3사분면
 				// result 값 누적
@@ -49,11 +38,6 @@ public class ex_2455 {
 				r -= median;
 				median = median/2;
 				
-				System.out.println("3사분면");
-				System.out.println("r : " + r);
-				System.out.println("c : " + c);
-				System.out.println("m : " + median);
-				System.out.println("result: " + result);
 			} else if (r < median && c >= median) {
 				// 2사분면
 				// result 값 누적
@@ -61,29 +45,15 @@ public class ex_2455 {
 				result += median * median;
 				c -= median;
 				median = median/2;
-				
-				System.out.println("2사분면");
-				System.out.println("r : " + r);
-				System.out.println("c : " + c);
-				System.out.println("m : " + median);
-				System.out.println("result: " + result);
+					
 			} else if (r < median && c < median) {
 				// 1사분면
 				// result 값 누적
 				median = median/2;
-				
-				System.out.println("1사분면");
-				System.out.println("r : " + r);
-				System.out.println("c : " + c);
-				System.out.println("m : " + median);
-				System.out.println("result: " + result);
 			}
 			
 			// 남은 result 값 누적
 			// median 치환
-			
-			
-			System.out.println("----------------------");
 		}
 		
 	}// main
