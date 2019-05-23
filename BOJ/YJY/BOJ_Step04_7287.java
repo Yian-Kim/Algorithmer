@@ -5,3 +5,11 @@
 - 문제 : BOJ 4단계 입/출력 받아보기 
         7287번 등록 (https://www.acmicpc.net/problem/7287)
 */
+public class Main{
+    
+    public static void main(String args[]){
+        
+        System.out.println("3");
+        System.out.println("jubi93");
+    }
+}
