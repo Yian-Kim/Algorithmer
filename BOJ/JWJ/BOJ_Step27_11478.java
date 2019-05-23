@@ -20,3 +20,4 @@ public class ex_11478 {
 		System.out.println(set.size());
 	}
 }
+http://blog.naver.com/PostView.nhn?blogId=ssarang8649&logNo=220988436553
