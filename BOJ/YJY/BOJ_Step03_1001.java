@@ -17,4 +17,4 @@ public class Main{
         int b = scan.nextInt();
         System.out.println(a-b);
     }
-}
+} 
