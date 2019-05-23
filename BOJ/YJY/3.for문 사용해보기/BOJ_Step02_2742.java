@@ -2,7 +2,7 @@
 - 파일명 : BOJ_Step02_2742.java
 - 작성자 : YJY
 - 작성일자 : 2019.05.23.
-- 문제 : BOJ 2단계 사칙연산 도전하기 
+- 문제 : BOJ 2단계 for문 사용해보기 
         2742번 기찍 N (https://www.acmicpc.net/problem/2741)
 */
 import java.io.*;
