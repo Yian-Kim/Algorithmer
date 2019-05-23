@@ -1,8 +1,8 @@
 /*
-- 파일명 : BOJ_Step01_1000.java
+- 파일명 : BOJ_Step02_1000.java
 - 작성자 : YJY
 - 작성일자 : 2019.05.23.
-- 문제 : BOJ 1단계 입/출력 받아보기 
+- 문제 : BOJ 2단계 입/출력 받아보기 
         1000번 A+B (https://www.acmicpc.net/problem/1000)
 */
 
