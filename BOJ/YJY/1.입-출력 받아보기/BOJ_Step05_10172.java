@@ -3,7 +3,7 @@
 - 작성자 : YJY
 - 작성일자 : 2019.05.23.
 - 문제 : BOJ 5단계 입/출력 받아보기 
-        10172번  (https://www.acmicpc.net/problem/10172)
+        10172번 개 (https://www.acmicpc.net/problem/10172)
 */
 public class Main {
     
