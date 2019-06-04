@@ -1,6 +1,6 @@
 /*
 
-- 파일명 : BOJ_Step7_11654.java
+- 파일명 : BOJ_Step07_11654.java
 - 작성자 : KCM
 - 작성일자 : 2019.05.01.
 - 문제 : 11654번 아스키코드 (https://www.acmicpc.net/problem/11654)
