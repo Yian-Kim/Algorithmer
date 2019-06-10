@@ -1,52 +1,33 @@
 import java.util.Scanner;
 import java.util.Stack;
-
-public class Level11_stack_basic {
-	
-	static Scanner scan = new Scanner(System.in);
-	static String[] temp = scan.nextLine().split("");
-	static Stack<String> stack = new Stack<String>();
-	
-	public static void main(String[] args) {
-		System.out.println(evaluate());
-	}
-
-	private static int evaluate() {
-		
-		int sum = 0, curr = 1;
-		
-		for (int i=0; i<temp.length; i++) {
-			if (temp[i].equals("(")) {
-				stack.push("(");
-				curr  *= 2;
-				System.out.println("case1");
-			} else if (temp[i].equals("[")) {
-				stack.push("[");
-				curr  *= 3;
-				System.out.println("case2");
-			} else if (temp[i].equals(")")) {
-				if (stack.empty() || !stack.peek().equals("(")) {
-					System.out.println("case3_1");
-					return 0;
-				} else if (temp[i-1].equals("(")) {
-					sum  += curr;
-					stack.pop();
-					curr /= 2;
-					System.out.println("case3_2");
-				}
-			} else if (temp[i].equals("]")) {
-				if (stack.empty() || !stack.peek().equals("[")) {
-					System.out.println("case4_1");
-					return 0;
-				} else if (temp[i-1].equals("[")) {
-					sum  += curr;
-					stack.pop();
-					curr /= 3;
-					System.out.println("case4_2");
-				}
+public class Main {
+	static int evaluate(String str) {
+		int len = str.length();
+		int cur = 1;
+		int sum = 0;
+		Stack<Character> stack = new Stack<Character>();
+		for(int i=0; i<len; i++) {
+			switch(str.charAt(i)) {
+			case '(': stack.push('('); cur *= 2; break;
+			case '[': stack.push('['); cur *= 3; break;
+			case ')':
+				if( stack.isEmpty() || stack.peek() != '(' ) return 0;
+				if( str.charAt(i-1) == '(' ) sum += cur;
+				stack.pop(); cur /= 2;
+				break;
+			case ']':
+				if( stack.isEmpty() || stack.peek() != '[' ) return 0;
+				if( str.charAt(i-1) == '[' ) sum += cur;
+				stack.pop(); cur /= 3;
+				break;
 			}
-		}//for
-		if (!stack.empty()) return 0;
+		}
+		if( !stack.isEmpty() ) return 0;
 		return sum;
+	}
+	public static void main(String args[]) {
+		Scanner sc = new Scanner(System.in);
+		String str = sc.next();
+		System.out.println( evaluate(str) );
 	}
 }
