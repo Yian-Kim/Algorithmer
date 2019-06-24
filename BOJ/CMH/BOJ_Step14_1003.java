@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class Lv14_fibonacci_number_1003_fibonacci_function_dp {// 재귀는 시간초과 > DP로 풀기
-	static int c0 = 0;
-	static int c1 = 0;
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int T = scan.nextInt();
