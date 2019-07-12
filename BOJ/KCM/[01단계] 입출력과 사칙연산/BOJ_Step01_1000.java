@@ -3,7 +3,7 @@
 - 파일명 : BOJ_Step01_1000.java
 - 작성자 : KCM
 - 작성일자 : 2019.04.14.
-- 문제 : BOJ 1단계 입/출력 받아보기 
+- 문제 : BOJ 1단계 입출력과 사칙연산
         1000번 A+B (https://www.acmicpc.net/problem/1000)
 - 난이도 : ★☆☆☆☆
 - 후기 : substring 함수 부분이 생각나지 않아 구글링함
