@@ -1,9 +1,9 @@
 /*
 
-- 파일명 : BOJ_Step02_10430.java
+- 파일명 : BOJ_Step01_10430.java
 - 작성자 : KCM
 - 작성일자 : 2019.04.13.
-- 문제 : BOJ 2단계 사칙연산 도전하기
+- 문제 : BOJ 1단계 입출력과 사칙연산
         10430번 나머지 (https://www.acmicpc.net/problem/10430)
 - 난이도 : ★☆☆☆☆
 - 후기 : substring으로 제출하니 런타임 에러와 틀렸습니다가 떠서 split을 사용함
