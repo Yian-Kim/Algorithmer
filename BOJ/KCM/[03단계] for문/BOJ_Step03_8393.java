@@ -4,7 +4,7 @@
 - 작성자 : KCM
 - 작성일자 : 2019.04.22.
 - 문제 : BOJ 3단계 for문
-		8393번 구구단 (https://www.acmicpc.net/problem/8393)	
+		8393번 합 (https://www.acmicpc.net/problem/8393)	
 - 난이도 : ★☆☆☆☆
 - 후기 : 매우 쉬운 문제입니다.
         
