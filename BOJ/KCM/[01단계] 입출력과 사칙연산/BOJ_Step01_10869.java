@@ -1,9 +1,9 @@
 /*
 
-- 파일명 : BOJ_Step02_10869.java
+- 파일명 : BOJ_Step01_10869.java
 - 작성자 : KCM
 - 작성일자 : 2019.04.13.
-- 문제 : BOJ 2단계 사칙연산 도전하기
+- 문제 : BOJ 1단계 입출력과 사칙연산
         10869번 사칙연산 (https://www.acmicpc.net/problem/10869)
 - 난이도 : ★★☆☆☆
 - 후기 : substring으로 int 변수에 담으려고 했으나,
