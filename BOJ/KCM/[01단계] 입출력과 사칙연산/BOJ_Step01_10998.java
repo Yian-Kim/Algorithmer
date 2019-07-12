@@ -1,9 +1,9 @@
 /*
 
-- 파일명 : BOJ_Step02_10998.java
+- 파일명 : BOJ_Step01_10998.java
 - 작성자 : KCM
 - 작성일자 : 2019.04.13.
-- 문제 : BOJ 2단계 사칙연산 도전하기
+- 문제 : BOJ 1단계 입출력과 사칙연산
         10998번 A×B (https://www.acmicpc.net/problem/10998)
 - 난이도 : ★☆☆☆☆
 - 후기 : substring 함수만 기억하면 쉬운 문제
