@@ -1,10 +1,10 @@
 /*
 
-- 파일명 : BOJ_Step01_11719.java
+- 파일명 : BOJ_11719.java
 - 작성자 : KCM
 - 작성일자 : 2019.05.04.
-- 문제 : BOJ 1단계 입/출력 받아보기
-        11719번 그대로 출력하기2 (https://www.acmicpc.net/problem/11719)
+- 문제 : BOJ 11719번 그대로 출력하기2 
+		(https://www.acmicpc.net/problem/11719)
 - 난이도 : ★★☆☆☆
 - 후기 : 11718번과 코드가 똑같음. 출력하려면 Ctrl+Z를 눌러야 함.
         
