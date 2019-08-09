@@ -2,22 +2,30 @@
 
 - 파일명 : BOJ_Step07_11654.java
 - 작성자 : KCM
-- 작성일자 : 2019.05.01.
-- 문제 : 11654번 아스키코드 (https://www.acmicpc.net/problem/11654)
+- 작성일자 : 2019.08.09.
+- 문제 : BOJ 7단계 문자열
+        11654번 셀프 넘버 (https://www.acmicpc.net/problem/11654)
 - 난이도 : ★☆☆☆☆
-- 후기 : 쉬운 편에 속했으나 charAt 함수가 생각나지 않아 구글링함
-
+- 후기 : 3개월 전에 풀었을 때는 아스키코드값으로 바꾸는게 헷갈렸는데,
+        얼마 전에도 개념을 확실히 잡으니 헷갈리지 않고 풀 수 있었다.
+		그때는 Scanner를 사용해서 char로 입력받았는데, 
+		이번에는 BufferedReader를 사용하여 String으로 입력받았다.
+        
 */
 
+import java.io.BufferedReader;
 import java.io.IOException;
-import java.util.Scanner;
+import java.io.InputStreamReader;
 
 public class Main {
-
 	public static void main(String[] args) throws IOException {
+
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+		String ch = br.readLine();
+		int asciiCodeValue = ch.charAt(0);
+		System.out.println(asciiCodeValue);
 		
-		Scanner scan = new Scanner(System.in);
-		char alpha = scan.nextLine().charAt(0); // 알파벳 입력
-		System.out.println((int)alpha); // 알파벳 int형 변환 후 출력
+		br.close();
 	}
 }
