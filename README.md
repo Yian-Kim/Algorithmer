@@ -8,6 +8,12 @@
 
 The Repository was created for code sharing in a SW TEST Study.<br>
 
+## 2020 공개채용 알고리즘 테스트 준비
+- 카카오
+- 삼성
+- NHN
+- 네이버
+
 ## Participant
 - [KCM](https://github.com/Chanmi-Kim) <br>
 - [CMH](https://github.com/chans08) <br>
