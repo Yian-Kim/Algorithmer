@@ -14,6 +14,9 @@ The Repository was created for code sharing in a SW TEST Study.<br>
 - NHN
 - 네이버
 
+## 비타알고
+- 04월 3주차 진행중
+
 ## Participant
 - [KCM](https://github.com/Chanmi-Kim) <br>
 - [CMH](https://github.com/chans08) <br>
