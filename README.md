@@ -1,8 +1,6 @@
 # SWTest_Algorithm
 
 <!-- URL 넣는 방법 : [내용](URL) -->
-[[한국어]](https://github.com/Chanmi-Kim/SWTest_Algorithm/blob/master/README.ko.md)
-[[ENGLISH]](https://github.com/Chanmi-Kim/SWTest_Algorithm/blob/master/README.md)
 
 ## Introduce
 
