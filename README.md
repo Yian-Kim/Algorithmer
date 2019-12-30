@@ -51,12 +51,12 @@
 ### 🍸 프로그래머스 코딩테스트 스터디
 - 기간 : 2019.12.03 ~
 - 유형 : 온라인
-- 참여자 (7명) : KCM, KYH, JDH, YDS, LCH, CMH, KDH
+- 참여자 (7명) : [KCM](https://github.com/Chanmi-Kim), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08), [KDH](https://github.com/mycisco)
 
 ### 💻 비타알고 스파르타 스터디
 - 기간 : 2019.08.23 ~ 2019.11.23
 - 유형 : 온라인
-- 참여자 (7명) : KCM, KMS, KYH, JDH, YDS, LCH, CMH
+- 참여자 (7명) : [KCM](https://github.com/Chanmi-Kim), [KMS](https://github.com/msnodeve), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08)
 
 ### 🏢 SIST 스터디
 - 기간 : 2019.04.20 ~ 2019.07.08
