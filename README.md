@@ -48,22 +48,32 @@
 
 ## 📑 진행상황 (최근순)
 
-### 🧀 NW 1일 1알고리즘 습관만들기 스터디
-- 기간 : 2020.01.06 ~
+### 알고리즈머 2기 온라인 스터디
+
+- 기간 : 2020.02.19 ~
+- 유형 : 온라인
+- 참여자 (11명) : [KCM](https://github.com/Chanmi-Kim),
+
+### 🧀 NW 1일 1커밋 습관만들기 스터디
+
+- 기간 : 2020.01.06 ~ 2020.04.03
 - 유형 : 오프라인
 - 참여자 (3명) : [KCM](https://github.com/Chanmi-Kim), PSY, KDW
 
 ### 🍸 프로그래머스 코딩테스트 스터디
+
 - 기간 : 2019.12.03 ~
 - 유형 : 온라인
 - 참여자 (7명) : [KCM](https://github.com/Chanmi-Kim), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08), [KDH](https://github.com/mycisco)
 
 ### 💻 비타알고 스파르타 스터디
+
 - 기간 : 2019.08.23 ~ 2019.11.23
 - 유형 : 온라인
 - 참여자 (7명) : [KCM](https://github.com/Chanmi-Kim), [KMS](https://github.com/msnodeve), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08)
 
 ### 🏢 SIST 스터디
+
 - 기간 : 2019.04.20 ~ 2019.07.08
 - 유형 : 오프라인
 - 참여자 (3명) : [KCM](https://github.com/Chanmi-Kim), [CMH](https://github.com/chans08), [JWJ](https://github.com/woojoovove)
