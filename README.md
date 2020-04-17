@@ -5,8 +5,8 @@
 - 알고리즘 문제를 푼 뒤 성공코드를 공유하기 위한 저장소입니다.
 - 온라인 오픈카톡방에서 일일인증 스터디 진행중입니다. (2019.08.23 ~ )
 - 오픈카톡방 링크 : [★ Algorithmer : 알고리즈머 일일인증방](https://open.kakao.com/o/gBu3SdBb)
-  - [!] 소수정예로 운영중, 11월 말에 신규유입 가능 [!]
-- 내용 수정이 필요할 경우 [Issues](https://github.com/Chanmi-Kim/Algorithm-problem-solving/issues)에 문의부탁드립니다.
+  - [!] 소수정예로 운영중입니다. 참여를 원하시면 `chanmi_dev@naver.com`으로 연락주세요.
+- 내용 수정이 필요할 경우 [Issues](https://github.com/Chanmi-Kim/Algorithm-problem-solving/issues)에 문의 부탁드립니다.
 
 ## 📝 작성규칙
 
@@ -14,10 +14,10 @@
 - 파일명 : **사이트폴더명_단계_문제번호** or **사이트폴더명_문제제목**
 - 파일내용에 커밋메시지 본문을 상단 주석처리하여 추가해주세요.
 - 커밋메시지 : 맨 위에 제목 입력 후 제목과 본문 사이에 한 줄 비운 뒤에 본문 입력해주세요.
-  - 제목 : **code: Add file 파일명** (Add, Fix, Change 등 현재형 동사로 사용해주세요.)
+  - 제목 : **feat: Add file 파일명** (Add, Fix, Change 등 현재형 동사로 사용해주세요.)
   - 예시)
    ```git
-  code: Add file BOJ_Step05_2920.java
+  feat: Add file BOJ_Step05_2920.java
   ```
   - 본문 : 파일명, 작성자, 작성일자, 문제, 난이도, 후기를 포함하여 작성해주세요.
   - 예시)
@@ -41,32 +41,33 @@
 | BOJ         | 백준 온라인 저지      | [https://www.acmicpc.net](https://www.acmicpc.net)           |
 | Codility    | 코딜리티             | [https://app.codility.com/programmers](https://app.codility.com/programmers) |
 | Groom       | 위클리 비타알고 시즌1 | [http://edu.goorm.io/lecture/11220/프리미엄-알고리즘-위클리-비타알고-시즌1](http://edu.goorm.io/lecture/11220/프리미엄-알고리즘-위클리-비타알고-시즌1) |
-| SWEA        | SW 전문가 아카데미    | [https://swexpertacademy.com](https://swexpertacademy.com/)  |
+| HackerRank  | 해커랭크             | [https://www.hackerrank.com](https://www.hackerrank.com)  |
 | Programmers | 프로그래머스          | [https://programmers.co.kr](https://programmers.co.kr)  |
+| SWEA        | SW 전문가 아카데미    | [https://swexpertacademy.com](https://swexpertacademy.com)  |
 |             | 더블릿               | [http://59.23.150.58](http://59.23.150.58)                   |
 
 
 ## 📑 진행상황 (최근순)
 
-### 알고리즈머 2기 온라인 스터디
+### 🍩 알고리즈머 2기 온라인 스터디
 
 - 기간 : 2020.02.19 ~
 - 유형 : 온라인
-- 참여자 (11명) : [KCM](https://github.com/Chanmi-Kim),
+- 참여자 (10명) : [KCM](https://github.com/Chanmi-Kim), [JGB](https://github.com/cafemug), [KMS](https://github.com/msnodeve), [CMH](https://github.com/chans08), [SH](https://github.com/sehajyang), [PSY](https://Github.com/soyeonP), [RSH](https://github.com/Zeroboom), [SHNR](https://github.com/HaenaraShin), [RWS](https://github.com/wooseopim), [YJH](https://github.com/narajoa21)
 
 ### 🧀 NW 1일 1커밋 습관만들기 스터디
 
 - 기간 : 2020.01.06 ~ 2020.04.03
 - 유형 : 오프라인
-- 참여자 (3명) : [KCM](https://github.com/Chanmi-Kim), PSY, KDW
+- 참여자 (3명) : [KCM](https://github.com/Chanmi-Kim), [PSY](https://Github.com/soyeonP), [KDW](https://github.com/ehddnr8813)
 
-### 🍸 프로그래머스 코딩테스트 스터디
+### 🍸 알고리즈머 1기 프로그래머스 코딩테스트 스터디
 
-- 기간 : 2019.12.03 ~
+- 기간 : 2019.12.03 ~ 2019.12.17
 - 유형 : 온라인
 - 참여자 (7명) : [KCM](https://github.com/Chanmi-Kim), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08), [KDH](https://github.com/mycisco)
 
-### 💻 비타알고 스파르타 스터디
+### 💻 알고리즈머 1기 비타알고 스파르타 스터디
 
 - 기간 : 2019.08.23 ~ 2019.11.23
 - 유형 : 온라인
