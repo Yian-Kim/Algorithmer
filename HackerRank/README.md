@@ -6,3 +6,6 @@
 - [Day 1: Data Types](30-Days-of-Code/HackerRank_Day1_Data-Types.java)
 - [Day 2: Operators](30-Days-of-Code/HackerRank_Day2_Operators.java)
 - [Day 3: Intro to Conditional Statements](30-Days-of-Code/HackerRank_Day3_Intro-to-Conditional-Statements.java)
+- [Day 4: Class vs. Instance](30-Days-of-Code/HackerRank_Day4_Class-vs.-Instance.java)
+- [Day 5: Loops](30-Days-of-Code/HackerRank_Day5_Loops.java)
+- [Day 6: Let's Review](30-Days-of-Code/HackerRank_Day6_Let's-Review.java)
