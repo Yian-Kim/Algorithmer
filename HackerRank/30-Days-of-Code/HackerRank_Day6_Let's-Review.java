@@ -1,4 +1,4 @@
-import java.util.*;
+import java.io.*;
 
 public class Solution {
 
@@ -22,18 +22,17 @@ public class Solution {
         return temp;
     }
 
-    public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
+    public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
-        int T = scan.nextInt();
-        scan.nextLine();
+        int T = Integer.parseInt(bufferedReader.readLine());
         String[] result = new String[T];
 
         for (int i = 0; i < T; i++) {
-            String strings = scan.nextLine();
+            String strings = bufferedReader.readLine();
             result[i] = solve(strings);
             System.out.println(result[i]);
         }
-        scan.close();
+        bufferedReader.close();
     }
 }
