@@ -9,3 +9,4 @@
 - [Day 4: Class vs. Instance](30-Days-of-Code/HackerRank_Day4_Class-vs.-Instance.java)
 - [Day 5: Loops](30-Days-of-Code/HackerRank_Day5_Loops.java)
 - [Day 6: Let's Review](30-Days-of-Code/HackerRank_Day6_Let's-Review.java)
+- [Day 7: Arrays](30-Days-of-Code/HackerRank_Day7_Arrays.java)
