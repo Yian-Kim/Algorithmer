@@ -10,3 +10,7 @@
 - [Day 5: Loops](30-Days-of-Code/HackerRank_Day5_Loops.java)
 - [Day 6: Let's Review](30-Days-of-Code/HackerRank_Day6_Let's-Review.java)
 - [Day 7: Arrays](30-Days-of-Code/HackerRank_Day7_Arrays.java)
+- [Day 8: Dictionaries and Maps](30-Days-of-Code/HackerRank_Day8_Dictionaries-and-Maps.java )
+- [Day 9: Recursion 3](30-Days-of-Code/HackerRank_Day9_Recursion-3.java)
+
+
