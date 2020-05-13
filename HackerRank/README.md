@@ -12,5 +12,5 @@
 - [Day 7: Arrays](30-Days-of-Code/HackerRank_Day7_Arrays.java)
 - [Day 8: Dictionaries and Maps](30-Days-of-Code/HackerRank_Day8_Dictionaries-and-Maps.java )
 - [Day 9: Recursion 3](30-Days-of-Code/HackerRank_Day9_Recursion-3.java)
-
+- [Day 10: Binary Numbers](30-Days-of-Code/HackerRank_Day10_Binary-Numbers.java)
 
