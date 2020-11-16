@@ -3,7 +3,7 @@
 ## 🔍 소개
 
 - 알고리즘 문제를 푼 뒤 성공코드를 공유하기 위한 저장소입니다.
-- 온라인 오픈카톡방에서 일일인증 스터디 진행중입니다. (2019.08.23 ~ )
+- Slack에서 일일인증 스터디 진행중입니다.
 - 오픈카톡방 링크 : [★ Algorithmer : 알고리즈머 일일인증방](https://open.kakao.com/o/gBu3SdBb)
   - [!] 소수정예로 운영중입니다. 참여를 원하시면 `chanmi_dev@naver.com`으로 연락주세요.
 - 내용 수정이 필요할 경우 [Issues](https://github.com/Chanmi-Kim/Algorithm-problem-solving/issues)에 문의 부탁드립니다.
@@ -49,9 +49,15 @@
 
 ## 📑 진행상황 (최근순)
 
+### 고투잼(Go-to-JAM) 직장인 스터디
+
+- 기간: 2020.11.16 ~
+- 유형: 온라인
+- 참여자 (2명) : [KCM](https://github.com/Chanmi-Kim), [CMH](https://github.com/chans08)
+
 ### 🍩 알고리즈머 2기 온라인 스터디
 
-- 기간 : 2020.02.19 ~
+- 기간 : 2020.02.19 ~ 2020.06.14
 - 유형 : 온라인
 - 참여자 (10명) : [KCM](https://github.com/Chanmi-Kim), [JGB](https://github.com/cafemug), [KMS](https://github.com/msnodeve), [CMH](https://github.com/chans08), [SH](https://github.com/sehajyang), [PSY](https://Github.com/soyeonP), [RSH](https://github.com/Zeroboom), [SHNR](https://github.com/HaenaraShin), [RWS](https://github.com/wooseopim), [YJH](https://github.com/narajoa21)
 
