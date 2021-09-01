@@ -3,10 +3,8 @@
 ## 🔍 소개
 
 - 알고리즘 문제를 푼 뒤 성공코드를 공유하기 위한 저장소입니다.
-- Slack에서 일일인증 스터디 진행중입니다.
-- 오픈카톡방 링크 : [★ Algorithmer : 알고리즈머 일일인증방](https://open.kakao.com/o/gBu3SdBb)
-  - [!] 소수정예로 운영중입니다. 참여를 원하시면 `chanmi_dev@naver.com`으로 연락주세요.
-- 내용 수정이 필요할 경우 [Issues](https://github.com/Chanmi-Kim/Algorithm-problem-solving/issues)에 문의 부탁드립니다.
+- 오픈카톡방 링크 : ★ Algorithmer : 알고리즈머 일일인증방 (현재 운영중단)
+- 내용 수정 및 문의사항은 [Issues](https://github.com/Chanmi-Kim/Algorithm-problem-solving/issues)에 부탁드립니다.
 
 ## 📝 작성규칙
 
@@ -49,38 +47,44 @@
 
 ## 📑 진행상황 (최근순)
 
-### 고투잼(Go-to-JAM) 직장인 스터디
+### 🔮 랜선모각코
 
-- 기간: 2020.11.16 ~
+- 기간: 2021.08.21. ~
+- 유형: 온라인 (모여서 각자 스터디)
+- 참여자 (2명) : [KYA](https://github.com/Yian-Kim), [KDB](https://github.com/kim-dabin)
+
+### 👟 고투잼(Go-to-JAM) 직장인 스터디
+
+- 기간: 2020.11.16. ~ 2020.12.10.
 - 유형: 온라인
-- 참여자 (2명) : [KCM](https://github.com/Chanmi-Kim), [CMH](https://github.com/chans08)
+- 참여자 (2명) : [KYA](https://github.com/Yian-Kim), [CMH](https://github.com/chans08)
 
 ### 🍩 알고리즈머 2기 온라인 스터디
 
-- 기간 : 2020.02.19 ~ 2020.06.14
+- 기간 : 2020.02.19. ~ 2020.06.14.
 - 유형 : 온라인
-- 참여자 (10명) : [KCM](https://github.com/Chanmi-Kim), [JGB](https://github.com/cafemug), [KMS](https://github.com/msnodeve), [CMH](https://github.com/chans08), [SH](https://github.com/sehajyang), [PSY](https://Github.com/soyeonP), [RSH](https://github.com/Zeroboom), [SHNR](https://github.com/HaenaraShin), [RWS](https://github.com/wooseopim), [YJH](https://github.com/narajoa21)
+- 참여자 (10명) : [KYA](https://github.com/Yian-Kim), [JGB](https://github.com/cafemug), [KMS](https://github.com/msnodeve), [CMH](https://github.com/chans08), [SH](https://github.com/sehajyang), [PSY](https://Github.com/soyeonP), [RSH](https://github.com/Zeroboom), [SHNR](https://github.com/HaenaraShin), [RWS](https://github.com/wooseopim), [YJH](https://github.com/narajoa21)
 
 ### 🧀 NW 1일 1커밋 습관만들기 스터디
 
-- 기간 : 2020.01.06 ~ 2020.04.03
+- 기간 : 2020.01.06. ~ 2020.04.03.
 - 유형 : 오프라인
-- 참여자 (3명) : [KCM](https://github.com/Chanmi-Kim), [PSY](https://Github.com/soyeonP), [KDW](https://github.com/ehddnr8813)
+- 참여자 (3명) : [KYA](https://github.com/Yian-Kim), [PSY](https://Github.com/soyeonP), [KDW](https://github.com/ehddnr8813)
 
 ### 🍸 알고리즈머 1기 프로그래머스 코딩테스트 스터디
 
-- 기간 : 2019.12.03 ~ 2019.12.17
+- 기간 : 2019.12.03. ~ 2019.12.17.
 - 유형 : 온라인
-- 참여자 (7명) : [KCM](https://github.com/Chanmi-Kim), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08), [KDH](https://github.com/mycisco)
+- 참여자 (7명) : [KYA](https://github.com/Yian-Kim), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08), [KDH](https://github.com/mycisco)
 
 ### 💻 알고리즈머 1기 비타알고 스파르타 스터디
 
-- 기간 : 2019.08.23 ~ 2019.11.23
+- 기간 : 2019.08.23. ~ 2019.11.23.
 - 유형 : 온라인
-- 참여자 (7명) : [KCM](https://github.com/Chanmi-Kim), [KMS](https://github.com/msnodeve), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08)
+- 참여자 (7명) : [KYA](https://github.com/Yian-Kim), [KMS](https://github.com/msnodeve), [KYH](https://github.com/yh0921k), [JDH](https://github.com/daehoney), [YDS](https://github.com/dsyun96), [LCH](https://github.com/blurfx), [CMH](https://github.com/chans08)
 
 ### 🏢 SIST 스터디
 
-- 기간 : 2019.04.20 ~ 2019.07.08
+- 기간 : 2019.04.20. ~ 2019.07.08.
 - 유형 : 오프라인
-- 참여자 (3명) : [KCM](https://github.com/Chanmi-Kim), [CMH](https://github.com/chans08), [JWJ](https://github.com/woojoovove)
+- 참여자 (3명) : [KYA](https://github.com/Yian-Kim), [CMH](https://github.com/chans08), [JWJ](https://github.com/woojoovove)
