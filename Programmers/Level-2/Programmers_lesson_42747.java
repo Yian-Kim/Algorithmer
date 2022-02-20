@@ -35,7 +35,7 @@ class Solution {
         Arrays.sort(citations);
 
         for (int i = 0; i < n; i++) {
-            int h = n-i;
+            int h = n - i;
 
             if (citations[i] >= h) {
                 answer = h;
